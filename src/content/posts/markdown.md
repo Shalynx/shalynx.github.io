@@ -6,7 +6,7 @@ category: 例子
 tags: [Markdown]
 ---
 
-下面是在 Astro 中编写 Markdown 内容时，可以使用的一些基本 Markdown 语法示例。
+在 Astro 中编写 Markdown 内容时，可以使用的一些基本 Markdown 语法示例。
 
 ## 标题
 
